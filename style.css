@@ -51,5 +51,16 @@ body{
     margin-right: auto;
     width: 50%;
   }
+.div1{
+    text-align: center;
+    display: block;
+  }
+  
+  .image1{
+    max-height: 250px;
+    min-height: 240px;
+    
+  }
+
   
   
