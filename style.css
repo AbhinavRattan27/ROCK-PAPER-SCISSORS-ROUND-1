@@ -66,3 +66,14 @@ body{
     float: left;
   }
   
+  .button1{
+   cursor: pointer;
+   font-size: large;
+   box-shadow:rgb(229, 194, 194) 2px 5px 2px 5px ;
+   text-decoration: none;
+  }
+
+  .button1:hover{
+    background-color: beige;
+    
+  }
